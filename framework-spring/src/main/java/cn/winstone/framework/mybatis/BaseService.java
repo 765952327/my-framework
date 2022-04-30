@@ -1,12 +1,10 @@
 package cn.winstone.framework.mybatis;
 
 import cn.winstone.framework.entity.Entity;
-import cn.winstone.framework.mybatis.id.IdGenerator;
 import cn.winstone.framework.mybatis.mapper.BaseMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import java.util.Date;
 import java.util.List;
 
 @Component

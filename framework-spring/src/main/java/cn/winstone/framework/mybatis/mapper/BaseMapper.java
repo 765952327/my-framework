@@ -2,7 +2,6 @@ package cn.winstone.framework.mybatis.mapper;
 
 import cn.winstone.framework.entity.Entity;
 import cn.winstone.framework.mybatis.id.IdGenerator;
-import cn.winstone.framework.mybatis.mapper.CurdMapper;
 import tk.mybatis.mapper.entity.Example;
 import tk.mybatis.mapper.weekend.WeekendSqls;
 

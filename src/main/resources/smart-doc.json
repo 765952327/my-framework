@@ -1,9 +1,0 @@
-{
-  "serverUrl": "http://{{server}}",
-  "isStrict": false,
-  "allInOne": true,
-  "outPath": "./doc",
-  "projectName": "API文档",
-  "coverOld": true,
-  "framework": "spring"
-}
