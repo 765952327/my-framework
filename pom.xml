@@ -30,6 +30,7 @@
     <modules>
         <module>framework-common</module>
         <module>framework-spring</module>
+        <module>framework-cache</module>
     </modules>
 
     <dependencyManagement>
