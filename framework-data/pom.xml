@@ -2,26 +2,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-
-
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.5.4</version>
-        <relativePath />
+        <artifactId>framework</artifactId>
+        <groupId>cn.winstone</groupId>
+        <version>0.0.1</version>
     </parent>
-
     <modelVersion>4.0.0</modelVersion>
 
-    <!-- 定义基本信息 -->
-    <artifactId>framework</artifactId>
-    <groupId>cn.winstone</groupId>
+    <artifactId>framework-data</artifactId>
+    <!-- 继用父项目的版本 -->
     <version>0.0.1</version>
-
-    <!-- 父模块必须设置为此 -->
     <packaging>pom</packaging>
-
-    <!-- 集中版本管理 -->
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

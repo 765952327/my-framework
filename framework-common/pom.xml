@@ -40,12 +40,6 @@
             <artifactId>core</artifactId>
             <version>3.3.3</version>
         </dependency>
-        <!--swagger ui -->
-        <dependency>
-            <groupId>org.springdoc</groupId>
-            <artifactId>springdoc-openapi-ui</artifactId>
-            <version>1.5.0</version>
-        </dependency>
     </dependencies>
 
 </project>
